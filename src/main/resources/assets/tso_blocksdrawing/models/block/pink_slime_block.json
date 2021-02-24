@@ -1,0 +1,7 @@
+{
+  "parent": "block/slime_block",
+  "textures": {
+    "particle": "tso_blocksdrawing:blocks/pink_slime_block",
+    "texture": "tso_blocksdrawing:blocks/pink_slime_block"
+  }
+}
